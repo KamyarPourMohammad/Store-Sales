@@ -8,6 +8,13 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+holiday_evevnts.csv
+oil.csv
+sample_submission.csv
+stores.csv
+test.csv
+train.csv
+transactions.csv
 build/
 develop-eggs/
 dist/
